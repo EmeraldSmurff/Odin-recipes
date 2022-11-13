@@ -1,1 +1,2 @@
 # Odin-recipes
+This project is too create a recipe website. There will usages of anchors and images to show what is being made. Will also be using both ordered and unordered lists. Will be using a total of 3 recipies. 
